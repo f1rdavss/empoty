@@ -1,0 +1,40 @@
+/* Inter */
+@font-face {
+    src: url(../font/inter/Inter-Bold.ttf);
+    font-family: "Inter";
+    font-weight: 700;
+
+}
+
+
+
+@font-face {
+    src: url(../font/inter/Inter-Regular.ttf);
+    font-family: "Inter";
+    font-weight: 400;
+
+}
+
+
+/* inter */
+/* Roboto */
+
+
+@font-face {
+    src: url(../font/roboto/Roboto-Bold.ttf);
+    font-family: "Roboto";
+    font-weight: 700;
+
+}
+
+@font-face {
+    src: url(../font/roboto/Roboto-Regular.ttf);
+    font-family: "Roboto";
+    font-weight: 400;
+
+}
+
+
+
+/* Roboto */
+
